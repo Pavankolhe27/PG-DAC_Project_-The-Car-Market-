@@ -1,0 +1,2 @@
+# PG-DAC_Project_-The-Car-Market-
+In this project, we want to make some modules like car seller module, car buyer module and admin module. Buyer will search for the car he wants to buy.Seller will enter the details of the car. Admin will monitor the full website functionality. The website is posted by tomcat server, which is connected to MYSQL Database used by React.js as a frontend technology, and Spring MVC / SpringBoot / Spring REST Controllers as an backend development.
